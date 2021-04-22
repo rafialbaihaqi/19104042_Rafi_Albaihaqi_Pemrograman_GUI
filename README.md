@@ -1,2 +1,2 @@
 ###Digunakan untuk pengumplan tugas :
-Pemrograman GUI semua File berada di folder Pemrograman GUI, Praktikum Pemrograman GUI  File berada di Folder Praktikum###
+Teori Pemrograman GUI semua File berada di folder Teori --> Tugas GUI,  Praktikum Pemrograman GUI  File berada di Folder Praktikum###
