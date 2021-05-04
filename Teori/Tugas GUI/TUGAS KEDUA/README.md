@@ -5,7 +5,9 @@ Pada tampilan GUI ini menggunakan komponen :
 3. NIM, Nama, Jurusan, No.Telp menggunakan label yang sebelumnya menggunakan grid layoout 
 4. Tamabah, Edit, Clear, Hapus menggunakan label yang sebelumnya menggunakan horizontal layout. 
 
-berikut hasil tampilan dari GUI DataMahasiswaGUI
+#berikut hasil tampilan dari GUI DataMahasiswaGUI :
+
+
 
 
 ![DataMahasiswaGUI](https://user-images.githubusercontent.com/72422140/116986190-ac25f380-acf7-11eb-979e-dcb97ee56479.png)
