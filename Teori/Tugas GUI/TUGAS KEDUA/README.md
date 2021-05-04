@@ -10,4 +10,4 @@ Pada tampilan GUI ini menggunakan komponen :
 
 
 
-![DataMahasiswaGUI](https://user-images.githubusercontent.com/72422140/116986190-ac25f380-acf7-11eb-979e-dcb97ee56479.png)
+![DM2](https://user-images.githubusercontent.com/72422140/116989439-f27d5180-acfb-11eb-8b2e-354bfa228ef8.png)
