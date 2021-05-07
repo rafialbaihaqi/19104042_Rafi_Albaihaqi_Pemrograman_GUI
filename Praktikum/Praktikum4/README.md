@@ -1,11 +1,14 @@
-###screenshoot program 
+###screenshoot program###
 
-##Menu Dropdown
-![1](https://user-images.githubusercontent.com/72422140/117393959-6d728200-af1f-11eb-9a02-e676fd28a8e5.png)
+         ---> Menu Dropdown <---
+![dropdown](https://user-images.githubusercontent.com/72422140/117394697-d0b0e400-af20-11eb-9450-9822e3363304.png)
 
-##Layout
-![layout](https://user-images.githubusercontent.com/72422140/117393984-75322680-af1f-11eb-91d3-177d44fe3e83.png)
+         ---> Layout <---
+![layout1](https://user-images.githubusercontent.com/72422140/117394727-deff0000-af20-11eb-9c83-1816a20cf368.png)
 
 
-##Dialog
-![masukkan nama](https://user-images.githubusercontent.com/72422140/117393998-7e22f800-af1f-11eb-97bc-eacb81bdb2dd.png)
+         ---> Dialog <---
+![dialog](https://user-images.githubusercontent.com/72422140/117394736-e2928700-af20-11eb-813c-42e553c34bf9.png)
+
+
+
