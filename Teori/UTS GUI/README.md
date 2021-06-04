@@ -13,7 +13,7 @@ Screenshoot__nomor 2
 
 
 --->pada nomor 2 terdapat kesalahan pada code yang mana terdapat kelebihan satu tab line app.exec_();
-seharusnya tdak ada tab tetapi lurus dengan line 15
+seharusnya tdak ada tab tetapi lurus dengan line 15 dibawahh button.show()
 
 
 
