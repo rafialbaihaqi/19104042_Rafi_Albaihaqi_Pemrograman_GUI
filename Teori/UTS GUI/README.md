@@ -1,9 +1,6 @@
-# TUGAS SEBELUM UTS SEMESTER 4 
-Pada tampilan GUI ini menggunakan komponen :
-1. Layout pada Data Mahasiswa menggunakan horizontal layout yang didalamnya terdapat, label dan sudah di bold font serta ukurannya di perbesar
-2. Layout tempat untuk view text menggunakan grid layout di dalamnya terdapat columnView
-3. NIM, Nama, Jurusan, No.Telp menggunakan label yang sebelumnya menggunakan grid layoout 
-4. Tamabah, Edit, Clear, Hapus menggunakan label yang sebelumnya menggunakan horizontal layout. 
+#UTS 
+
+
 
 #berikut hasil tampilan dari GUI DataMahasiswaGUI :
 
@@ -11,3 +8,15 @@ Pada tampilan GUI ini menggunakan komponen :
 
 
 ![DM2](https://user-images.githubusercontent.com/72422140/116989439-f27d5180-acfb-11eb-8b2e-354bfa228ef8.png)
+
+Screenshoot__nomor 2
+
+
+--->pada nomor 2 terdapat kesalahan pada code yang mana terdapat kelebihan satu tab line app.exec_();
+seharusnya tdak ada tab tetapi lurus dengan line 15 dibawahh button.show()
+
+
+
+![NOMOR2](https://user-images.githubusercontent.com/72422140/120763260-4076b680-c541-11eb-823c-abf1529364b8.png)
+
+
